@@ -1,7 +1,7 @@
 # AOMEI Partition Assistant — Professional Disk Partition Manager for Windows
 
 <div align="center">
-<img src="https://www.aomeitech.com/s-download?filename=../resources/images/partners_marketing-material/img-banner-pa@2x.png" alt="AOMEI Partition Assistant Logo"/>
+<img src="https://comparecamp.com/media/uploads/2019/04/AOMEI-Partition-Assistant-6.6-logo.png" alt="AOMEI Partition Assistant Logo"/>
 </div>
 
 <div align="center">
